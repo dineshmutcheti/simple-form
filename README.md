@@ -41,9 +41,9 @@ This is a simple web page with a contact form that includes fields for name, ema
 
 The project has three main files:
 
-- **index.html**: Contains the HTML structure of the page.
-- **style.css**: Contains the CSS for styling the form and page layout.
-- **script.js**: Contains the JavaScript for handling form submission and displaying a success message.
+  a.html: Contains the HTML structure of the page.
+  a.style: Contains the CSS for styling the form and page layout.
+  a.script: Contains the JavaScript for handling form submission and displaying a success message.
 
 ## Features
 
