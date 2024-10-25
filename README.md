@@ -68,5 +68,5 @@ The project has three main files:
 To view this project locally, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/your-username/simple-contact-form.git
+   git clone https://github.com/dineshmutcheti/simple-form.git
 
